@@ -72,8 +72,6 @@ public class Main {
             if (q > 1) {
                 replaceWords++;
             }
-//repeat.put(word, repeat.getOrDefault(word,defaultValue:0)+1}
-//            "Empty", "spaces", "what", " are"," we"," living"," for"," Abandoned"," places ","I ","guess"," we ","know","the ","score,"," on"," and ","on"," Does ","anybody ","know ","what ","we ","are ","looking ","for?"
         }
         System.out.println(replaceWords);
     }
